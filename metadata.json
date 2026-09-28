@@ -1,0 +1,6 @@
+{
+  "name": "Nirikshan AI - MPLADS Audit Intelligence",
+  "description": "AI-powered early warning and forensic intelligence platform for monitoring MPLADS projects. Detect anomalies, trace evidence, and prioritise investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
